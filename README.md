@@ -2,17 +2,9 @@
 <h3 align="center">A Passionate Software Developer</h3>
 
 - 🔭 I’m currently working on **Projects**
-
 - 🌱 I’m currently learning **React.js**
-
 - 👯 I’m looking to collaborate on **.Net Projects**
-
-- 🤝 I’m looking for help with [Freelancing Projects & Looking for a Job](https://www.fiverr.com/s/2mrQ2q)
-
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/padmavathimanoharan/sites](https://app.netlify.com/teams/padmavathimanoharan/sites)
-
 - 📫 How to reach me **padmam725@gmail.com**
-
 - 📄 Know about my experiences [https://padmavathi-portfolio.netlify.app/resume/Padma.pdf](https://padmavathi-portfolio.netlify.app/resume/Padma.pdf)
 
 <h3 align="left">Connect with me:</h3>
